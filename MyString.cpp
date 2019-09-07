@@ -1,7 +1,6 @@
 #include "MyString.h"
 
 
-
 size_t MyString::strlen ( const char * str )
 {
 	size_t len = 0;

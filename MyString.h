@@ -2,7 +2,6 @@
 #define	_MyString_H_
 
 #include <ostream>
-#include <stdlib.h>
 
 using std::ostream;
 
